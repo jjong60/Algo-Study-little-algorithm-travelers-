@@ -1,4 +1,5 @@
 # BAEKJOON 1181
+# sort, sorted를 익히자
 
 N = int(input()) # 개수 입력받기
 word_list = []
